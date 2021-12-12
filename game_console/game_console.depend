@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1562126357 source:e:\game_console\game_console\ai.c
+	"console_header.h"
+
+1562097600 e:\game_console\game_console\console_header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<dos.h>
+
+1562015709 source:e:\game_console\game_console\find_t.c
+	"console_header.h"
+
+1562101920 source:e:\game_console\game_console\get_game_file.c
+	"console_header.h"
+
+1562126357 source:e:\game_console\game_console\key_instruct.c
+	"console_header.h"
+
+1562126357 source:e:\game_console\game_console\main.c
+	"console_header.h"
+
+1562110706 source:e:\game_console\game_console\menu.c
+	"console_header.h"
+
+1562110275 source:e:\game_console\game_console\move.c
+	"console_header.h"
+
+1562105501 source:e:\game_console\game_console\print_game.c
+	"console_header.h"
+
+1561978658 source:e:\game_console\game_console\random.c
+	"console_header.h"
+
+1562105524 source:e:\game_console\game_console\time.c
+	"console_header.h"
+

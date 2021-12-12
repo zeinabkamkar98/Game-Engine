@@ -1,0 +1,9 @@
+solidblock=B
+wall=#
+up=w
+down=s
+right=d
+left=a
+character=O
+target=T
+Exit=q

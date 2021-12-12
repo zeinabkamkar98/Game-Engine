@@ -1,0 +1,29 @@
+63X28
+###############################################################
+#                              B                  G           #
+#    BBBBBB    BBBBBBBBBBB     B     BBBBBBBBBBBB    BBBBB    #
+#    B         B               B                B        B    #
+#    BBBBBB    BBBBBBBBBBB     B     BBBBBBBBBBBB    BBBBB    #
+#                          G                                  #
+#                                                             #
+#BBBBBBBBBB    B      BBBBBBBBBBBBBBBBBBBB      B    BBBBBB   #
+#              B               B                B             #
+#              BBBBBBB         B           BBBBBB     #########
+#              B                                B             #
+#              B         BBBB      BBBBB        B             #
+#                        B             B                      #
+#              B         B             B        B     #########
+#    O         B         BBBBBBBBBBBBBBB        B      G      #
+###########    B                                B     #########
+#                                                             #
+#    BBBB         BBBBBBB      BBBBBBBBBBBBB        BBBBB     #
+#       B                  G        B               B         #
+#   G   B            B              B               B         #
+#       B  B         B              B               B         #
+#BBB       B         B      BBBB           BBBBB          BBBB#
+#          B                                                  #
+#       BBBBBBBB         BBBBBB     BBBBB         BBBBBB      #
+#       B      B    G    B                        B           #
+#       B      B         B        BBBB            BBBBBB      #
+#                                                             #
+###############################################################

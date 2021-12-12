@@ -1,0 +1,28 @@
+86X29
+######################################################################################
+#                                               #                                    #
+#     BBBBBBB    BBB  D BBBBBB       ############     BBBBBBB   BBB     BBBBBBBB     #
+#     BBBBBBB    BBB    BBBBBB                        BBBBBBB   BBB     BBBBBBBB     #
+#                                                                     G              #
+#                                                                                    #
+#     BBBBBBB    BBB    BBBBBBB     BBBBB   BBBBB     BBBBBBB   BBB     BBBBBBBB     #
+#                                                                                    #
+#     BB     BB  G   BB       BB     BBB    BBBB      BBBBBBB    BB    BB     BB     #
+#     BB     BB      BB       BB     B         B      BBBBBBB    BB    BB     BB     #
+#     BB     BB      BB       BB     B         B      BBBBBBB D  BB    BB     BB     #
+#     BB     BB      BB   D   BB     B    O    B      BBBBBBB    BB    BB     BB     #
+#     BB     BB      BB       BB     BBBBBBBBBBB      BBBBBBB    BB    BB     BB     #
+#               G                                                                    #
+#   D                                                                                #
+#     BBBBBBBBB     BB      BBBBBBBBBB       BBBBB     BBBBB    BBBBBBBBBBBB   BB    #
+#     BBBBBBBBB     BB      BBBBBBBBBB       BBBBB     BBBBB    BBBBBBBBBBBB   BB    #
+#                                                                                    #
+#     BBBBBBBBB     BB      BBBBBBBBBB       BBBBB     BBBBB     BBBBBBBBBBB   BB    #
+#                                                                                    #
+#       BB       BB         BB          BBBBBBBBB     G  BBBBBBBBBBBB       BB       #
+#       BB       BB         BB    G     BBBBBBBBB        BBBBBBBBBBBB       BB       #
+#       BB       BB   D     BB          BBBBBBBBB                           BB       #
+#       BB       BB         BB                                              BB       #
+#                               #   #########    #                                   #
+#                               #                #              D                    #
+######################################################################################

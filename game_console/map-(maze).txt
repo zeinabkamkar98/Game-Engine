@@ -1,0 +1,32 @@
+31X31
+###############################
+#           B  O     B        #
+#           B        B        #
+#BBBBB   B     BBBB  BBBBBB   #
+#        B     B  B     B     #
+#        B     B  B     B     #
+#  BBB   BBBBBBB  BBBB  BBBB  #
+#  B     B     B           B  #
+#  B     B     B           B  #
+#  B  BBBBBBB  BBBBBBB  B     #
+#  B  B     B     B     B     #
+#  B  B     B     B     B     #
+#BBB  B  B     B     BBBBBBBBB#
+#     B  B     B     B        #
+#     B  B     B     B        #
+#  BBBB  BBBBBBBBBB  B  B  BBB#
+#     B     B     B  B  B     #
+#     B     B     B  B  B     #
+#     BBBB     B  BBBB  B  B  #
+#  B     B     B  B     B  B  #
+#  B     B     B  B     B  B  #
+#  BBBB  BBBBBBB  B  BBBBBBB  #
+#     B     B     B  B        #
+#     B     B     B  B        #
+#BBB  BBBB  B   BBB  BBBBBBBBB#
+#  B  B     B        B        #
+#  B  B     B        BT       #
+#     B   BBBBBBBBB  BBBBBBB  #
+#     B           B           #
+#     B           B           #
+###############################
